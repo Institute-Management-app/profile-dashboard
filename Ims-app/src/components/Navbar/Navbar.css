@@ -1,0 +1,21 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.tool-bar {
+  background-color: #222f3e;
+  color: white;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+}
+
+.burger {
+  display: flex;
+  align-items: center;
+}
